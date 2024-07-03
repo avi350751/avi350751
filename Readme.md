@@ -1,4 +1,4 @@
-Hi there, I am Avishek!! 
+## Hi there, I am **Avishek**!! 
 
 👋 Hi, I'm a Senior Automation Engineer and specialize in devising automation strategies, analyzing tools, and improving testing coverage and efficiency. My expertise spans UI automation, Salesforce automation, and API automation.
 
