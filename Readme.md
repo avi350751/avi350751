@@ -8,4 +8,5 @@
 
 🚀 On this GitHub, you'll find projects related to automation testing, machine learning, and data science. Let's connect and collaborate on exciting tech solutions!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi350751&show_icons=true)](https://github.com/avi350751/github-readme-stats&show_icons=true)
+<img alt= "my stats" align="left" width="49%" src ="https://github-readme-stats.vercel.app/api?username=avi350751&&hide=issues&&show_icons=true&theme=onedark"/>
+<img alt="top langs" align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=avi350751&langs_count=3&&hide=Cython,C&theme=onedark"/>
