@@ -7,3 +7,5 @@
 💡 I am passionate about solving data-driven problems and applying scientific reasoning to find innovative solutions.
 
 🚀 On this GitHub, you'll find projects related to automation testing, machine learning, and data science. Let's connect and collaborate on exciting tech solutions!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi350751)](https://github.com/avi350751/github-readme-stats)
