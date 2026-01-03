@@ -1,12 +1,48 @@
-## Hi there, I am **Avishek**!! 
+👋 Hi there, I’m Avishek!
 
-👋 Hi, I'm a Senior Automation Engineer and specialize in devising automation strategies, analyzing tools, and improving testing coverage and efficiency. My expertise spans UI automation, Salesforce automation, and API automation.
+I’m a Senior Automation Engineer with a strong focus on building scalable, efficient, and intelligent testing solutions. I specialize in automation strategy, tool evaluation, and AI test coverage optimization, with hands-on expertise across:
 
-🎓 I hold a postgraduate diploma in Artificial Intelligence and Machine Learning from the Texas McCombs School of Business. A continual learner eager to understand the world of AI.
+🧪 UI Automation
+☁️ Salesforce Automation
+🔌 API Automation
+🎓 AI Testing
 
-💡 I am passionate about solving data-driven problems and applying scientific reasoning to find innovative solutions.
+I hold a Postgraduate Diploma in Artificial Intelligence & Machine Learning from the Texas McCombs School of Business.
+A lifelong learner, I actively explore AI systems, LLMs, and agentic architectures, bridging theory with real-world engineering use cases.
 
-🚀 On this GitHub, you'll find projects related to automation testing, machine learning, and data science. Let's connect and collaborate on exciting tech solutions!
+💡 What Drives Me :
 
-<img alt= "my stats" align="left" width="49%" src ="https://github-readme-stats.vercel.app/api?username=avi350751&&hide=issues&&show_icons=true&theme=onedark"/>
-<img alt="top langs" align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=avi350751&langs_count=3&&hide=Cython,C&theme=onedark"/>
+- Solving data-driven and system-level problems
+- Applying scientific reasoning to engineering decisions
+- Exploring how AI can augment software testing and quality engineering
+- Building practical, production-ready Agentic AI workflows
+
+🚀 What You’ll Find Here
+
+On this GitHub, you’ll find projects and experiments around:
+
+🤖 Automation frameworks & testing utilities
+🧠 Machine Learning & Generative AI concepts
+🕸️ Agentic AI, LLM evaluation, and tool-driven agents
+⚙️ CI/CD, test strategy, and AI-assisted quality engineering
+
+I enjoy collaborating, sharing learnings, and building things that are simple, robust, and impactful.
+
+📊 GitHub at a Glance
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=avi350751&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=avi350751&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=avi350751&show_icons=true" />
+</picture>
+
+
+🤝 Let’s Connect
+
+If you’re interested in automation, AI-driven testing, agentic systems, or GenAI engineering, feel free to connect or collaborate.
+Always happy to exchange ideas and learn together.
